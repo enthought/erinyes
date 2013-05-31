@@ -1,0 +1,2 @@
+Erinyes was developed by Ioannis Tziakos with the help and support of Martin
+Chilvers. Currently Ioannis is the main developer and maintainer of Erinyes.
